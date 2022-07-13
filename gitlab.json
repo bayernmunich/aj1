@@ -1,0 +1,14 @@
+https://dev.azure.com/aks7/GitLab/_apis/pipelines/136/runs?api-version=6.0-preview.1
+
+
+{
+
+  "status": "inProgress",
+
+  "variables":{},
+
+  "scheduledDeploymentTime":null,
+
+  "comment":null
+
+}
